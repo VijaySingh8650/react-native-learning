@@ -62,12 +62,12 @@ const styles = StyleSheet.create({
   },
   input: {
     borderWidth: 1, // Border width
-    borderColor: "#F2F0EF", // Border color (black in this case)
+    borderColor: "#000", // Border color (black in this case)
     padding: 10, // Padding inside the input
     borderRadius: 16, // Rounded corners
     fontSize: 16, // Text size
     height: 50, // Height of the input field
-    backgroundColor: "#F2F0EF", // Background color (optional)
+    backgroundColor: "#fff", // Background color (optional)
   },
 });
 
