@@ -9,3 +9,9 @@ export type TypeOfDropDownList = {
     placeholder: string;
     subname: string;
 }
+
+export type TypeOfSelectedItems = {
+    recipe: string;
+    position: string;
+    isCupLast: string;
+}
