@@ -124,6 +124,8 @@ const Home = () => {
           text2Style: { fontSize: 14 },
         });
 
+        setIsLoading(false); 
+
       }
 
 
